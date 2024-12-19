@@ -15,7 +15,7 @@
 ## インストール方法
 1. リポジトリをクローンします。
     ```bash
-    git clone https://github.com/yourusername/mensetsu_app.git
+    git clone https://github.com/yourusername/mensetsu_practice_app.git
     ```
 2. 必要なライブラリをインストールします。
     ```bash
@@ -57,5 +57,5 @@ questions = [
 ## 作者
 - 名前: [Miruri Tada]
 - メール: [t2430082@gl.cc.uec.ac.jp]
-- GitHub: []
+- GitHub: [https://github.com/tada-m]
 
