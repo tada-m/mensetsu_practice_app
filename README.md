@@ -50,7 +50,7 @@ questions = [
 自分のリポジトリにコピーして自由に使ってください。
 
 ## 作者
-- 名前: [Miruri Tada]
+- 名前: [tada-m]
 - メール: [t2430082@gl.cc.uec.ac.jp]
 - GitHub: [https://github.com/tada-m]
 
