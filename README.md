@@ -19,7 +19,7 @@
     ```
 2. 必要なライブラリをインストールします。
     ```bash
-    pip install -r requirements.txt
+    pip install streamlit
     ```
 3. アプリを起動します。
     ```bash
